@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "bbbb-8b224"
+  },
+  "targets": {},
+  "etags": {
+    "bbbb-8b224": {
+      "extensionInstances": {}
+    }
+  }
+}
